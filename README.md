@@ -1,4 +1,8 @@
-#Ladies Learning Code slide deck template
+#Girls Learning Code - Webmaking with HTML+CSS
+
+Content created by [Kassandra Lenters](http://www.kasslenters.com) for Ladies Learning Code.
+
+Modified version of the Ladies Learning Code slidedeck:
 
 This slide deck includes features such as incremental display of content, interactive CSS demos built into the slides and markdown integration. View [slides.html](https://github.com/ladieslearningcode/llc-slidedeck-template/blob/master/slides.html) or http://ladieslearningcode.github.io/llc-slidedeck-template/slides.html for details on usage.
 
