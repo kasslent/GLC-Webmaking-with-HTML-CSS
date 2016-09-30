@@ -3,7 +3,7 @@
 	@author Lea Verou
 	@version 1.0
 
-	Don't alter - CSSS slide deck needs it to work 
+	Don't alter - CSSS slide deck needs it to work
 	https://github.com/LeaVerou/csss
  */
 
@@ -355,10 +355,10 @@ iframe.csss-import.show {
 	display: block;
 }
 
-/* Hoverable drop down menu*/ 
+/* Hoverable drop down menu*/
 
 .dropbtn {
-    background-color: #00a076;
+    background-color: #babcbc;
     color: white;
     padding: 16px;
     font-size: 12px;
@@ -377,7 +377,7 @@ iframe.csss-import.show {
     background-color: #f9f9f9;
 		font-size: 12px;
     min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,160,118,0.8);
+    box-shadow: 0px 8px 16px 0px rgba(139,49,224,0.8);
 }
 
 .dropdown-content a {
@@ -394,5 +394,5 @@ iframe.csss-import.show {
 }
 
 .dropdown:hover .dropbtn {
-    background-color: #00a076;
+    background-color: #8b31e0;
 }
