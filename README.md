@@ -1,19 +1,38 @@
-#Girls Learning Code - Webmaking with HTML+CSS
+#Girls Learning Code: Webmaking with Scratch
 
-Content created by [Kassandra Lenters](http://www.kasslenters.com) for Ladies Learning Code.
+HOW TO USE:
+## Before the Workshop
+1 Week to Go
 
-Modified version of the Ladies Learning Code slidedeck:
+* Download this folder.
+* Read the Facilitator Guide for context (open in your browser).
 
-This slide deck includes features such as incremental display of content, interactive CSS demos built into the slides and markdown integration. View [slides.html](https://github.com/ladieslearningcode/llc-slidedeck-template/blob/master/slides.html) or http://ladieslearningcode.github.io/llc-slidedeck-template/slides.html for details on usage.
+3 Days to Go
 
-This project uses [editorconfig](http://editorconfig.org/) to maintain consistent coding style. Make sure your text editor has an editorconfig [plugin](http://editorconfig.org/#download) installed.
+* Practice going through the selected Code-Along and Work Session activities
 
-**Atom Users:** The Whitespace plugin (which is installed by default) has `Trim trailing whitespace` option turned on by default. Turn this off in the Whitespace plugin settings, otherwise it overwrites the setting in [.editorconfig](.editorconfig). This is a known [issue](https://github.com/sindresorhus/atom-editorconfig/issues/3).  This is not required for workshop attendees, just for those wishing to make updates to the slides.
+2 Days To Go
 
-Created with <a href="https://github.com/LeaVerou/csss/sample-slideshow.html">Lea Verou's CSS-based SlideShow System</a> and <a href="http://lab.hakim.se/reveal-js/">reveal.js</a>. Syntax highlighting courtesy of http://highlightjs.org. Best viewed in Chrome or Firefox.
+* Update the slides (in a text editor):
+    * Insert the network info (Slide 1)
+    * Edit the facilitator info with your photo and details (Slide 2 and 50)
 
+1 Day to Go
+
+* Print Facilitator Guide, TAG puzzle sheets, and Solution Sheets to bring to the workshop.
+
+## During the Workshsop
+* Have Facilitator Guide accessible throughout the workshop, follow along in the guide for support.
+* Use the slides to support the Kick-Off and Introduction.
+
+## After the Workshop
+* Give yourself a pat on the back - You did it!
+
+
+ATTRIBUTIONS:
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
-Created by [Christina Truong](http://twitter.com/christinatruong) for Ladies Learning Code.
+Content by Kassandra Lenters & Eden Beronio. Slides Created by [Christina Truong](http://twitter.com/christinatruong) for Ladies Learning Code.
+
 Email questions & comments to <content@ladieslearningcode.com>.
